@@ -1,2 +1,2 @@
 # mySite
-Some miscellaneous gibberish
+Some LNU stuff
